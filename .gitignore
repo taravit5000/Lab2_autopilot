@@ -74,7 +74,3 @@ Testing/
 /src/log/
 __pycache__/
 *.py[cod]
-
-# Local simulation files
-/experiments/
-/src/
